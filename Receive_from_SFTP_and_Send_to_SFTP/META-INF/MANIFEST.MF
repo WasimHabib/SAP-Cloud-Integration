@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Receive from SFTP and Send to SFTP
 Bundle-SymbolicName: Receive_from_SFTP_and_Send_to_SFTP; singleton:=true
-Bundle-Version: 1.0.0
+Bundle-Version: 1.0.2
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
